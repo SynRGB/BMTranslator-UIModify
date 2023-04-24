@@ -13,6 +13,12 @@
 
 Self-use UI modify for Bing Microsoft Translator.
 
-| <h3>Before</h3>                                                                            | <h3>After</h3>                                                                            |
-|--------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+**Non-graphical features/optimizations:**
+
+- Plain text copying (when copying text, font formatting is not copied, making it easier to paste elsewhere)
+
+**Graphical optimizations:**
+
+| **Before**                                                   | **After**                                                    |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 | <img src="https://github.com/SynRGB/BMTranslator-UIModify/raw/main/%23README/before.png"/> | <img src="https://github.com/SynRGB/BMTranslator-UIModify/raw/main/%23README/after.png"/> |
