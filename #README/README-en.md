@@ -1,3 +1,6 @@
+> [!WARNING]
+> Archived on `May 25, 2023` and no longer maintained, because the author no longer uses the site. Please note that the website may be updated and compatibility issues may exist.
+
 <div align="center">
     <img src="https://github.com/SynRGB/BMTranslator-UIModify/raw/main/%23README/icon/256.png" width="20%"/>
     <h1>BMTranslator-UIModify <code>v1.1</code></h1>
