@@ -1,3 +1,7 @@
+> [!WARNING]
+> 因为作者不再使用该网站，于 `2023 年 5 月 25 日` 归档，不再维护。 请注意，该网站可能会更新并且可能存在兼容性问题。
+
+
 <div align="center">
     <img src="https://github.com/SynRGB/BMTranslator-UIModify/raw/main/%23README/icon/256.png" width="20%"/>
     <h1>BMTranslator-综合界面优化 <code>v1.1</code></h1>
