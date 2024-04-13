@@ -1,5 +1,5 @@
 > [!WARNING]
-> Archived and no longer maintained since `May 25, 2023` (`v1.1`) because the author no longer uses the site. Please note that compatibility issues may arise as websites update.
+> Archived and no longer maintained since `May 25, 2023` (`v1.1`) because the author no longer uses this website. Please note that compatibility issues may arise as the website update.
 
 <div align="center">
     <img src="https://github.com/SynRGB/BMTranslator-UIModify/raw/main/%23README/icon/256.png" width="20%"/>
